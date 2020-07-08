@@ -1,8 +1,8 @@
 {
-	"client_id": "4a73d886-9ace-4fb2-b961-83a42eecab84",
-    "client_secret": "liFllSeIlizyrBFsJ6EThfRBAOhiIwyByFZW9lSAqhwGkAKGkvzmvIOGORbQqLZJ",
+	"client_id": "Test",
+    "client_secret": "Test",
     "grant_type": "authorization_code",
-    "code": "def50200a0dac1c9d3b8fd816a5f79e5e9e58aec0778d2126033aaae517304be19a4512115bcc0daab7df19b09c7c2f53ed1fe142bef0abb5e60cce5b1fd8d669342283bfef73b0b02458e4fd9f48b521a8ebd8d673ffef104fd378e1905b268a7d96fb07663b65073e762b6a8fabf1b3158f89428002ff0bd98c864057f2606cd33cf78081a6f71ad5f19b7676e144fcba886a1bcee9c7b9ccac574824d3eebe630a85a57324a7492191b6580b5f9521720cc47828da78b571667bb7db182442cc29312f956c19dd4e9256413953b1f18d0c9622d805c5984c3a669ab7f32013d654190c94fdf822aa6e16bdc34fca9e4f3c5b38d9cae0a17450f04f7d33365d2dbd808bda3240ca1950bcf22a505b8b760d85c0c5168a74172e316cdfb01282b4551760f543f3438d7ec879eeb22c85ce2cb097ec32cb791592cde56a205abc1586c6bf675d2156005b0a939f1f6da8b3ed67c9609ef558b0e5aa1315979518add1e4f63e68c55a279ac7fb56a608ec89d48b638859cb9ec93fe4cd7d68d021ef0532c3977b9b11b78de7d0a77979311a5d0f86adad7b1639e1b468040f83ed32b602e23ce2d447a5fb22516e42e87e9465fd6fef3944e417476178e3942009bbf62a77d",
-    "redirect_uri": "https://vertoserk.amocrm.ru",
-	"baseDomain": "vertoserk.amocrm.ru"
+    "code": "Test",
+    "redirect_uri": "https://test.amocrm.ru",
+	"baseDomain": "test.amocrm.ru"
 }

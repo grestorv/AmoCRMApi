@@ -13,7 +13,9 @@
     define('TOKEN_FILE', 'token_info.json');
 
     require_once "authorize.php";
-
+    /*
+     * Перед началом работы с программой необзходимо записать свои данные интеграции в файл data_info.json.
+     */
     //Проверяем наличие файлов с аутентификационными данными
     if ((!file_exists(DATA_FILE)) OR (!file_exists(TOKEN_FILE))) {
         exit('Data file or Token file not found');
